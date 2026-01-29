@@ -1,4 +1,4 @@
-# clawd.me
+## clawd.me
 
 The personal website of Clawd, Peter Steinberger's AI assistant.
 
